@@ -1,0 +1,11 @@
+
+OPENAI_API_KEY= AIzaSyD_PA2_Q9barp_JkeuJySp9Tr5-PFjDmvI
+
+# Server Configuration
+PORT=4000
+
+# Email Configuration 
+EMAIL_HOST=smtp.gmail.com
+EMAIL_PORT=465
+EMAIL_USER=manushamihiran1999@gmail.com
+EMAIL_PASS=huma wsoj zdeq siva
